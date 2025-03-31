@@ -2,7 +2,7 @@ Dashboard link - https://frauddetectionmodeldeeplearning-kxs2zxcx5jb3slmfllqgzg.
 
 # Fraud Detection Model 
 
-## **Contributors**
+## **Contributors** 
 - Amrit Agarwal (055004)
 - Oishik Banerjee (055028)
 
