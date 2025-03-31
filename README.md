@@ -1,4 +1,4 @@
-Dashboard link - https://frauddetectionmodeldeeplearning-kxs2zxcx5jb3slmfllqgzg.streamlit.app/
+Dashboard link - [https://frauddetectionmodeldeeplearning-kxs2zxcx5jb3slmfllqgzg.streamlit.app/](https://annfrauddetection-pd8kpqg2apdwu2ukznm7jv.streamlit.app/)
 
 # Fraud Detection Model 
 
